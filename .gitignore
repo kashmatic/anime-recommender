@@ -8,6 +8,6 @@ wheels/
 venv/
 logs/
 local.sh
-
+.env
 # Virtual environments
 .venv
